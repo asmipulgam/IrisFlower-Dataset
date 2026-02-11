@@ -1,2 +1,2 @@
-# codsoft-2
+# Iris Flower
 iris flower 
